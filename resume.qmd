@@ -1,6 +1,7 @@
 ---
 layout: cv
-title: "Seth Cridlebaugh's Resume"
+title: "Seth Cridlebaugh Resume"
+format: html
 ---
 
 # Seth Cridlebaugh
@@ -55,4 +56,3 @@ Graduated: June 2021
 - Auditing and forensic accounting  
 - Financial analysis  
 - Fitness and strength training
-
