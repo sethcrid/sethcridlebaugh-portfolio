@@ -6,11 +6,8 @@ title: "Seth Cridlebaugh's Resume"
 # Seth Cridlebaugh
 Accounting Student | Aspiring CPA
 
-<div id="webaddress">
-<a href="mailto:sethcrid@gmail.com">sethcrid@gmail.com</a>  
-| (253) 507-3589  
-| Lakewood, WA  
-</div>
+[sethcrid@gmail.com](mailto:sethcrid@gmail.com) | (253) 507-3589 | Lakewood, WA  
+[GitHub](https://github.com/sethcridlebaugh) | [LinkedIn](https://www.linkedin.com/in/sethcridlebaugh)
 
 ---
 
@@ -22,9 +19,9 @@ Motivated accounting student pursuing a Bachelor of Arts in Accounting with the 
 
 ## Experience
 
-`Sep 2023 – Aug 2024`  
-__PMI Cascade, Lakewood, WA__  
+**PMI Cascade, Lakewood, WA**  
 *Accounts Receivable Specialist*  
+_Sep 2023 – Aug 2024_  
 - Managed accounts receivables and performed collections of missed payments  
 - Coordinated with clients to resolve payment issues  
 - Maintained accurate records of transactions
@@ -33,14 +30,14 @@ __PMI Cascade, Lakewood, WA__
 
 ## Education
 
-`Expected Jun 2026`  
-__Brigham Young University–Idaho__  
-*Bachelor of Arts in Accounting*  
-GPA: 3.76  
+**Brigham Young University–Idaho**  
+_Bachelor of Arts in Accounting_  
+Expected Graduation: June 2026  
+**GPA:** 3.76
 
-`Jun 2021`  
-__Pierce College, Lakewood WA__  
-*Associate in Arts*
+**Pierce College, Lakewood WA**  
+_Associate in Arts_  
+Graduated: June 2021
 
 ---
 
@@ -56,7 +53,6 @@ __Pierce College, Lakewood WA__
 ## Interests
 
 - Auditing and forensic accounting  
-- Data analysis  
-- Financial compliance  
-- Lifting and fitness goals
+- Financial analysis  
+- Fitness and strength training
 
